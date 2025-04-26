@@ -1,3 +1,7 @@
+[Listen to the Podcast](podcast/Podcast.mp3)
+
+[![Listen to the Podcast](images/Podcast.avif)](podcast/Podcast.mp3)
+
 # Planning Considerations for Adult Autism Accommodation Project in Virginia
 
 Planning an accommodation project for autistic adults is a significant undertaking. Here is a list of items and areas that need careful consideration, particularly with a focus on Virginia:
