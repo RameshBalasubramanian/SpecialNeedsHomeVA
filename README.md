@@ -1,4 +1,6 @@
 [Listen to the Podcast](https://raw.githubusercontent.com/RameshBalasubramanian/SpecialNeedsHomeVA/refs/heads/main/podcast/Podcast.mp3)
+
+<audio controls="" preload="none"><source src="podcast/Podcast.mp3"></audio>
         
 # Planning Considerations for Adult Autism Accommodation Project in Virginia
 
