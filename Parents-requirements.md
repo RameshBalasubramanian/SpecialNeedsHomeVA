@@ -18,7 +18,7 @@ This outlines key requirements for planning housing and support systems designed
 * **Parent Perspective:** Ensuring the adult child is safe from harm, accidents, exploitation, and neglect, especially when unsupervised. Need for reliable emergency support and oversight long-term.
 * **Autistic Adult Perspective:** Feeling safe, secure, and comfortable in their own home *without* feeling constantly monitored or controlled. Knowing how to get help when needed.
 * **Requirement:**
-    * **Physical Security:** Safe neighborhood (considering factors relevant to Oakton/Northern Virginia), secure locks, robust fire/carbon monoxide detection (visual and auditory alerts). Well-maintained property.
+    * **Physical Security:** Safe neighborhood (considering factors relevant to Fairfax/Northern Virginia), secure locks, robust fire/carbon monoxide detection (visual and auditory alerts). Well-maintained property.
     * **Emergency Preparedness:** Clear, practiced emergency plans (medical, fire, weather, power outage). Easily accessible emergency contacts. Potential for non-intrusive alert systems (e.g., fall detection, inactivity monitoring, resident-activated panic buttons) chosen and controlled by the resident where possible.
     * **Personal Safety:** Support and skill-building around navigating the community safely, recognizing risks, understanding boundaries, and avoiding exploitation.
     * **Emotional Safety:** A supportive, non-judgmental environment where the individual feels respected and understood. Staff trained in trauma-informed care and de-escalation. Protection from bullying or manipulation.
