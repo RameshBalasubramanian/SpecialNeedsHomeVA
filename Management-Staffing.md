@@ -95,29 +95,9 @@ By implementing a well-defined management structure and a flexible, highly-train
 
 
 
-### Pictorial Representation (Text-Based) of Management and Staffing Structure
-GOVERNING BODY / BOARD OF DIRECTORS (Oversight, Strategy, Finance, Policy, Compliance) | | EXECUTIVE DIRECTOR / CEO (Overall Leadership, Operations, External Relations, Budget Management) |
+### Pictorial Representation of Management and Staffing Structure
 
-|             |               |               |               |
-|             |               |               |               |
-PROGRAMS &    HEALTHCARE      OPERATIONS &    FINANCE &       HUMAN
-SERVICES      SERVICES        FACILITIES      ADMINISTRATION  RESOURCES
-MANAGEMENT MANAGEMENT MANAGEMENT MANAGEMENT MANAGEMENT
-(Individual   (Medical Care,  (Physical       (Budgeting,     (Recruitment,
-Plans, Life   Aging Needs,    Plant, Safety,  Payroll,        Training,
-Skills, Social Palliative &   Transportation) Billing, HR     Staff Support,
-Integration,  Hospice Coord.)                 Functions)      Retention)
-|             |               |               |               |
-|             |               |               |               |
-------------  --------------  |               |               |
-|    |    |   |    |    |    |               |               |
-DSPs Program Behavior Nurses Therapists End-of-Life Facilities Admin. HR
-(Direct Coord. Analysts (RN/LPN) (OT/SLP/PT/ (Integrated Maintenance Staff  Staff
-Support) (Plan   (Behavior MH)   or Liaison
-Oversight) Support)      with Hospice)
-
-Life Enrichment / Activities Coordinator (Typically reports to Programs)
-Vocational / Employment Specialist       (Typically reports to Programs)
+![Management Structure](Housing_Management_Staff.jpg)
 
 This structure is designed to be dynamic and person-centered, with staffing ratios fluctuating based on individual needs, especially during periods of increased support like aging and end-of-life care.
 **Explanation of the Structure:**
