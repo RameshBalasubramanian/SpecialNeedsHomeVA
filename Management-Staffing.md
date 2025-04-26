@@ -97,7 +97,7 @@ By implementing a well-defined management structure and a flexible, highly-train
 
 ### Pictorial Representation of Management and Staffing Structure
 
-![Management Structure](Housing_Management_Staff.jpg)
+![Management Structure](images/Housing_Management_Staff.jpg)
 
 This structure is designed to be dynamic and person-centered, with staffing ratios fluctuating based on individual needs, especially during periods of increased support like aging and end-of-life care.
 **Explanation of the Structure:**
