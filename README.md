@@ -1,10 +1,4 @@
 [Listen to the Podcast](podcast/Podcast.mp3)
-
-        <audio controls>
-          <source src="podcast/Podcast.mp3" type="audio/mpeg">
-          Your browser does not support the audio element.
-        </audio>
-
         
 # Planning Considerations for Adult Autism Accommodation Project in Virginia
 
