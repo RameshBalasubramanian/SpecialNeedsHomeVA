@@ -66,7 +66,7 @@ This outlines key requirements for planning housing and support systems designed
 * **Autistic Adult Perspective:** Access to community and social opportunities **based on personal choice and interest**. Control over social interactions; ability to easily retreat. Avoiding forced socialization.
 * **Requirement:**
     * **Choice-Based Social Opportunities:** Facilitated access (not mandated participation) to clubs, groups, volunteer work, employment, religious communities, or other activities based on the resident's interests.
-    * **Community Access:** Located with reasonable access (considering transportation) to desired community resources (shops, libraries, parks, entertainment – relevant to Oakton/Fairfax County).
+    * **Community Access:** Located with reasonable access (considering transportation) to desired community resources (shops, libraries, parks, entertainment – relevant to Vienna/Oakton/Fairfax County).
     * **Transportation:** Reliable transportation options (public transit accessibility, walkability, ride-shares, potential staff transport, support for driving if applicable).
     * **Respect for Solitude:** Recognition and acceptance of the individual's need for privacy and downtime.
 
