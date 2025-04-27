@@ -89,3 +89,7 @@ This outlines key requirements for planning housing and support systems designed
     * **Dynamic Planning:** Regular reviews and updates to the support plan and potentially the living arrangement itself to accommodate changing needs, abilities, and preferences over the lifespan.
     * **Future Decision-Making:** Clear understanding of who holds legal guardianship (if any), power of attorney, or supported decision-making agreements, and how major life/health decisions will be made long-term.
     * **Documentation:** Comprehensive "Life Plan" or similar document detailing preferences, support needs, key contacts, financial arrangements, and end-of-life wishes.
+
+---
+
+[**Next ... Management-Staffing**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/Management-Staffing.md)
