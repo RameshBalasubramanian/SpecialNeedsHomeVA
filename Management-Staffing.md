@@ -114,3 +114,7 @@ This structure is designed to be dynamic and person-centered, with staffing rati
 * **Integrated vs. External Services:** End-of-Life Care Specialists are shown as either integrated within Healthcare Services or as external partners that the Healthcare team closely liaises with.
 
 This diagram illustrates the hierarchical flow of responsibility and the key functional areas required to manage such a comprehensive and lifelong community living model. The actual number of staff in each role (ratios) would be defined within the operational plan based on the residents' specific needs and the level of care required at different stages of their lives.
+
+---
+
+[**Next ... Various Trusts and their Relationship**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/Trust-relationship.md)
