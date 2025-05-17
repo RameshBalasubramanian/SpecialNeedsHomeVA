@@ -18,7 +18,7 @@ The model maintains strict delineation between individual ownership (via Special
 ![Trust Members Relationship](images/Trust_members_Relationship.jpg)
 
 # Pictorial Representation of Trust Funding Expenses
-![Trust Members Relationship](images/Trust_members_Relationship.jpg)
+![Trust Members Relationship](images/Trust_coverage.jpg)
 
 
 # 1. Founding Builders Trust (FBT)
