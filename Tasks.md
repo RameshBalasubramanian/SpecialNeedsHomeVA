@@ -1,4 +1,4 @@
-# Questions
+# Questions: That needs to be answered
 
 ## Capital and Seed Funding
 
@@ -22,3 +22,6 @@
 2.  Identify few builders
 3.  Identify few HOA companies
 
+---
+
+# Tasks: That needs to be accomplished
