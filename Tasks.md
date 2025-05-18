@@ -24,6 +24,11 @@
 3.  Identify few HOA companies
 
 ---
+# Pictorial Representation of Trust Funding Expenses
+![Project Timeline Sequence](images/Project_timeline_sequence-2.jpg)
+
+
+---
 
 # Tasks: That needs to be accomplished
 ## Next 6–8 Weeks
@@ -31,21 +36,22 @@
 **Founders Building Trust (FBT)** - For responsible for infrastructure and legal aspects, and the \
 **Group Home Operations Team (GHOT)** - For early-stage planning and operational frameworks.
 
-| Workstream                     | Key Activity                                                                                         | Owner (TBD) | Target Completion Date |
-|-------------------------------|------------------------------------------------------------------------------------------------------|-------------|-------------------------|
-| FBT  | Confirm zoning classification and engage zoning/planning consultant                                 |             |                         |
-| FBT | Identify and evaluate potential property sites for acquisition                                       |             |                         |
-| FBT | Schedule pre-application meeting with Fairfax County zoning staff                                    |             |                         |
-| FBT | Begin feasibility study (zoning, land use, density, utilities)                                       |             |                         |
-| FBT | Identify legal entity structure for the land trust                                                   |             |                         |
-| FBT | Shortlist architects experienced with accessible housing                                              |             |                         |
-| FBT | Initiate preliminary financial model for land and construction costs                                 |             |                         |
-| FBT | Engage legal counsel for land acquisition and trust formation                                        |             |                         |
-| FBT | Develop Phase 1 concept design and site layout plan                                                  |             |                         |
-| FBT | Initiate conversations with lenders or financial backers                                             |             |                         |
-| GHOT | Define dwelling unit types (studio, 1-BR, shared units, etc.) and occupancy models              |             |                         |
-| GHOT | Outline essential shared amenities (kitchen, dining, recreation, therapy rooms)               |             |                         |
-| GHOT | Identify minimum common services needed for adult residents (safety, health, engagement)      |             |                         |
-| GHOT | Define early operational policies and roles for internal management                            |             |                         |
-| GHOT | Explore on-site job types or microenterprise opportunities (e.g. packaging, crafts)            |             |                         |
-| GHOT | Formulate framework for parent co-living in adjacent or nearby private homes                  |             |                         |
+| Area  | Workstream                     | Key Activity                                                                                         | Owner (TBD) | Target Completion Date |
+|-------|-------------------------------|------------------------------------------------------------------------------------------------------|-------------|-------------------------|
+| Legal| FBT  | Confirm zoning classification and engage zoning/planning consultant                                 |             |                         |
+| Legal| FBT | Identify and evaluate potential property sites for acquisition                                       |             |                         |
+| Legal| FBT | Schedule pre-application meeting with Fairfax County zoning staff                                    |             |                         |
+| Legal| FBT | Schedule pre-application meeting with Fairfax County zoning staff                                    |             |                         |
+| Legal| FBT | Begin feasibility study (zoning, land use, density, utilities)                                       |             |                         |
+| Legal| FBT | Identify legal entity structure for the land trust                                                   |             |                         |
+| Legal| FBT | Shortlist architects experienced with accessible housing                                              |             |                         |
+| Legal| FBT | Initiate preliminary financial model for land and construction costs                                 |             |                         |
+| Legal| FBT | Engage legal counsel for land acquisition and trust formation                                        |             |                         |
+| Legal| FBT | Develop Phase 1 concept design and site layout plan                                                  |             |                         |
+| Legal| FBT | Initiate conversations with lenders or financial backers                                             |             |                         |
+| Legal| GHOT | Define dwelling unit types (studio, 1-BR, shared units, etc.) and occupancy models              |             |                         |
+| Legal| GHOT | Outline essential shared amenities (kitchen, dining, recreation, therapy rooms)               |             |                         |
+| Legal| GHOT | Identify minimum common services needed for adult residents (safety, health, engagement)      |             |                         |
+| Legal| GHOT | Define early operational policies and roles for internal management                            |             |                         |
+| Legal| GHOT | Explore on-site job types or microenterprise opportunities (e.g. packaging, crafts)            |             |                         |
+| Legal| GHOT | Formulate framework for parent co-living in adjacent or nearby private homes                  |             |                         |
