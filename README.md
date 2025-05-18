@@ -2,6 +2,12 @@ Compiled by **Ramesh Balasubramanian**
 # Problem Statement
 *Parents of autistic children, whether their child presents with minimal (high-functioning) or moderate or high (low-functioning) challenges, face profound concerns about their child's future well-being and support, especially after their own lifetime. While high-functioning individuals may achieve varying degrees of independence, many still require lifelong emotional, social, or practical support. Those with moderate to high challenges often need constant supervision, structured environments, and specialized care to maintain a safe and dignified life. Currently, there are significant gaps in long-term care planning, resources, and legal protections to ensure continuous support for autistic individuals once their parents are no longer able to provide care. This uncertainty places enormous emotional, financial, and logistical stress on families, highlighting the urgent need for sustainable, inclusive, and person-centered solutions for lifelong support.*
 
+---
+# Teamwork
+![Team Work](images/teamwork.jpeg)
+
+
+
 # Planning Considerations for Adult Autism Accommodation Project in Virginia
 
 Planning an accommodation project for autistic adults is a significant undertaking. Here is a list of items and areas that need careful consideration, particularly with a focus on Virginia:
