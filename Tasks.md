@@ -38,6 +38,11 @@
 
 | Area  | Workstream                     | Key Activity                                                                                         | Owner (TBD) | Target Completion Date |
 |-------|-------------------------------|------------------------------------------------------------------------------------------------------|-------------|-------------------------|
+| Misc| Founding Member | Identify the founding members                                 |  X |                         |
+| Misc| Member Rules | Formulate the rules                                    | X |                         |
+| Misc| Initial Setup | Seed money for inital work                                       | X |                         |
+| Misc| Initial Setup | Identify other Homes to study and learn                                       | X |                         |
+| Misc| Initial Setup | Make a call and identify the challenges; Document;                                       | X |                         |
 | Legal| FBT  | Confirm zoning classification and engage zoning/planning consultant                                 |             |                         |
 | Legal| FBT | Identify and evaluate potential property sites for acquisition                                       |             |                         |
 | Legal| FBT | Schedule pre-application meeting with Fairfax County zoning staff                                    |             |                         |
