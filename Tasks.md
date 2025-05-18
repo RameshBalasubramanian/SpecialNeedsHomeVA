@@ -24,7 +24,7 @@
 3.  Identify few HOA companies
 
 ---
-# Pictorial Representation of Trust Funding Expenses
+# Pictorial Representation of Project Timeline
 ![Project Timeline Sequence](images/Project_timeline_sequence-2.jpg)
 
 
