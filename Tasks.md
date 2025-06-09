@@ -191,3 +191,31 @@
 | Develop Dedicated End-of-Life Care Protocols     | Define clear roles and protocols for providing end-of-life care within the community, including collaboration with external hospice agencies.                              | Healthcare Services Director, legal counsel, hospice agencies, ethical review committee.                             |
 | Provide Emotional Support for Staff             | Establish adequate support and debriefing mechanisms for staff involved in providing end-of-life care.                                                                     | HR, mental health professionals, peer support programs.                                                              |
 | Implement Succession Planning for Support        | Identify and train staff who can provide consistent and familiar support to residents as they age and potentially outlive family members.                                    | HR, Program and Services Manager, long-term care specialists.                                                        |
+
+
+
+### I. Founding Builders Trust (FBT) - Property Acquisition & Legal Setup
+
+| Activity | Hint on Approach | Whom to Contact |
+|----------|------------------|-----------------|
+| Identify and shortlist compliant sites | Research local zoning laws, community needs, and accessibility requirements. Consider proximity to amenities. | Real estate agents, local planning and zoning department, community services boards |
+| Conduct legal due diligence for property | Hire a lawyer to investigate property history, liens, easements, and potential environmental issues. | Legal counsel specializing in real estate and property law |
+| Secure purchase agreements and register title under FBT | Work with legal counsel to draft and execute purchase agreements and ensure proper title registration. | Legal counsel, real estate agents, title company |
+| Engage legal counsel for trust formation and property law compliance | Retain an attorney experienced in trust law and property law to establish the FBT and ensure all legal aspects are covered. | Legal counsel specializing in trust and property law |
+
+### II. Founding Builders Trust (FBT) - Financial Structuring
+
+| Activity | Hint on Approach | Whom to Contact |
+|----------|------------------|-----------------|
+| Collect capital contributions from founding parents | Clearly define contribution amounts and payment schedules. Use formal agreements. | Founding parents, financial advisors, legal counsel |
+| Establish transparent accounting and banking systems | Set up dedicated bank accounts and robust accounting software. Implement clear financial policies. | Accountants, financial advisors, banking institutions |
+| Create Phase 1 budget for land, construction, legal costs | Obtain detailed quotes from architects, contractors, and legal professionals. Include contingency funds. | Architects, contractors, legal counsel, financial advisors, construction cost estimators |
+| Set clear financial close and distribution policies | Define criteria for FBT closure and how any remaining funds will be distributed or handled. | Legal counsel, financial advisors, founding parents |
+
+### III. Founding Builders Trust (FBT) - Zoning, Permits & Compliance
+
+| Activity | Hint on Approach | Whom to Contact |
+|----------|------------------|-----------------|
+| File zoning change applications as needed | Research local zoning ordinances. Prepare comprehensive applications demonstrating community benefit. | City/County Planning and Zoning Department, urban planners, legal counsel |
+| Obtain environmental, ADA, and county construction permits | Work closely with regulatory bodies to understand and fulfill all permit requirements. | Environmental agencies, building permit offices, ADA compliance consultants |
+| Ensure design meets special needs accessibility codes | Collaborate with architects and accessibility consultants. Review all design plans against relevant codes. | Architects, ADA consultants, occupational therapists |
