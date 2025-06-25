@@ -1,8 +1,11 @@
-# Roles and Responsibilities in a Founding Builders Trust (FBT)
+# <center> Founding Builders Trust Roles </center>
+
+
+## Roles and Responsibilities in a Founding Builders Trust (FBT)
 
 In a Founding Builders Trust (FBT) or any similar trust, the **President**, **Secretary**, and **Treasurer** play crucial and distinct roles that are essential for the effective operation and governance of the organization. Their responsibilities often intertwine, requiring close collaboration to ensure the trust fulfills its mission and manages its assets responsibly.
 
-## President
+### President
 
 The President is the head of the trust and its most visible representative. They provide overall leadership and strategic direction.
 
@@ -19,7 +22,7 @@ The President is the head of the trust and its most visible representative. They
 - **Legal and Ethical Compliance:** Ensures the trust operates within legal and ethical guidelines, upholding its integrity and building public confidence.
 - **Performance Evaluation:** If applicable, leads the annual performance evaluation of the executive director or similar roles.
 
-## Secretary
+### Secretary
 
 The Secretary is responsible for the administrative and record-keeping aspects of the trust, ensuring proper documentation and communication.
 
@@ -33,7 +36,7 @@ The Secretary is responsible for the administrative and record-keeping aspects o
 - **Administrative Support:** Provides general administrative support to the board, coordinating meeting logistics (location, time), and distributing meeting materials.
 - **Confidentiality:** Handles sensitive information with discretion and maintains confidentiality.
 
-## Treasurer
+### Treasurer
 
 The Treasurer is responsible for the financial management and oversight of the trust, ensuring fiscal responsibility and transparency.
 
