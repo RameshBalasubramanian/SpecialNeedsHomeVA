@@ -12,4 +12,4 @@
 
 ---
 
-[**Next ... Roles and Responsbilities of the Founding Member**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/3%20-%20Founding%20Members/Founding-Builders-Trust-Roles.md)
+[**Next ... Roles and Responsbilities of the Founding Member**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/3%20-%20Founding%20Members/3-1-Founding-Builders-Trust-Roles.md)
