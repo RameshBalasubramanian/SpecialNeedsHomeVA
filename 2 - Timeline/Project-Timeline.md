@@ -7,7 +7,7 @@
 
 ---
 # Pictorial Representation of Project Timeline
-![Project Timeline Sequence](images/Project_timeline_sequence.jpg)
+![Project Timeline Sequence](../images/Project_timeline_sequence.jpg)
 
 
 ---
