@@ -11,14 +11,14 @@ This plan outlines the creation of a Special Needs Community Group Home, governe
 The model maintains strict delineation between individual ownership (via Special Needs Trusts) and shared services, ensuring both fiduciary clarity and sustainable community support.
 
 # Pictorial Representation of Trust Sequence by Timeline
-![Trust Sequence by Timeline](images/Trust_Sequence_timeline.jpg)
+![Trust Sequence by Timeline](../images/Trust_Sequence_timeline.jpg)
 
 
 # Pictorial Representation of Founding/Future Members and Trust Relationship
-![Trust Members Relationship](images/Trust_members_Relationship.jpg)
+![Trust Members Relationship](../images/Trust_members_Relationship.jpg)
 
 # Pictorial Representation of Trust Funding Expenses
-![Trust Members Relationship](images/Trust_coverage.jpg)
+![Trust Members Relationship](../images/Trust_coverage.jpg)
 
 
 # 1. Founding Builders Trust (FBT)
@@ -135,4 +135,4 @@ A Special Needs Trust (SNT) in Virginia is a legal arrangement that allows you t
 
 ---
 
-[**Next ... Project timeline**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/Project-Timeline.md)
+[**Next ... Project timeline**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/1%20-%20Introduction/Project-Timeline.md)
