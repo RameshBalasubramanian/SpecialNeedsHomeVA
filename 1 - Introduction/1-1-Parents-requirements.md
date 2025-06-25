@@ -1,10 +1,10 @@
 # <center> Parent Requirements </center>
 
-# Requirements for Lifelong, Self-Sustaining Independent Living: Parent & Autistic Adult Perspectives
+## Requirements for Lifelong, Self-Sustaining Independent Living: Parent & Autistic Adult Perspectives
 
 This outlines key requirements for planning housing and support systems designed to enable a young autistic adult to live independently throughout their life in a self-sustaining manner. It balances the parents' desire for safety and long-term security with the autistic adult's fundamental need for autonomy and a fulfilling life.
 
-## 1. Core Philosophy & Housing Model
+### 1. Core Philosophy & Housing Model
 
 * **Parent Perspective:** A stable, secure, and permanent housing solution that will reliably exist and function even after parents are no longer able to oversee it. Peace of mind is paramount.
 * **Autistic Adult Perspective:** **Autonomy** and **Choice** are central. A place that is truly *theirs*, where they make the decisions about their life and environment.
@@ -15,7 +15,7 @@ This outlines key requirements for planning housing and support systems designed
         * Units within a well-established non-profit with a dedicated endowment ensuring long-term operation independent of fluctuating annual funding.
     * A core operating philosophy centered on **person-centered practices**, maximizing resident control and respecting individual preferences.
 
-## 2. Safety & Security (Physical, Emotional, Financial)
+### 2. Safety & Security (Physical, Emotional, Financial)
 
 * **Parent Perspective:** Ensuring the adult child is safe from harm, accidents, exploitation, and neglect, especially when unsupervised. Need for reliable emergency support and oversight long-term.
 * **Autistic Adult Perspective:** Feeling safe, secure, and comfortable in their own home *without* feeling constantly monitored or controlled. Knowing how to get help when needed.
@@ -26,7 +26,7 @@ This outlines key requirements for planning housing and support systems designed
     * **Emotional Safety:** A supportive, non-judgmental environment where the individual feels respected and understood. Staff trained in trauma-informed care and de-escalation. Protection from bullying or manipulation.
     * **Lifelong Oversight:** A plan for future advocacy and oversight after parents are gone (e.g., designated trustee, advocate, committee, sibling involvement as agreed upon).
 
-## 3. Housing Design & Environment
+### 3. Housing Design & Environment
 
 * **Parent Perspective:** Durable, easy-to-maintain environment. Design features that mitigate potential safety risks and support independence.
 * **Autistic Adult Perspective:** **Control over their sensory environment** is critical. Space needs to be personalized, comfortable, predictable, and facilitate self-regulation. Privacy is essential.
@@ -38,7 +38,7 @@ This outlines key requirements for planning housing and support systems designed
     * **Technology Integration:** Smart home features chosen by the resident to enhance independence (e.g., automated reminders, lighting control, security) and/or safety alerts. Reliable high-speed internet.
     * **Location-Specific Design:** Consider features suitable for Virginia climate (e.g., reliable heating/cooling).
 
-## 4. Support System & Staffing
+### 4. Support System & Staffing
 
 * **Parent Perspective:** Reliable, consistent, compassionate, and well-trained support staff available when needed. Low staff turnover. Assurance of backup support.
 * **Autistic Adult Perspective:** Support available **on their terms** – flexible, respectful, non-intrusive. Having choice and control over *who* provides support and *what* support looks like. Focus on enabling, not just doing for them.
@@ -49,7 +49,7 @@ This outlines key requirements for planning housing and support systems designed
     * **Reliability & Backup:** Clear plan for backup staffing in case of illness or absence. Low staff-to-resident ratio appropriate to needs.
     * **Focus on Skill Building:** Support includes coaching/assistance with life skills as desired by the resident (cooking, cleaning, finances, scheduling, community navigation) to enhance independence.
 
-## 5. Financial Structure & Sustainability
+### 5. Financial Structure & Sustainability
 
 * **Parent Perspective:** A robust financial plan ensuring the housing and necessary supports are funded for the individual's entire life, independent of parental finances eventually. Protection of assets.
 * **Autistic Adult Perspective:** Having necessary resources available for living expenses, personal needs, and chosen activities. Understanding and participating in budgeting/finances to the extent possible/desired.
@@ -62,7 +62,7 @@ This outlines key requirements for planning housing and support systems designed
     * **Financial Management Support:** Assistance with budgeting, bill paying, and financial literacy tailored to the individual's abilities and preferences. Clear financial oversight and reporting (e.g., from trustee).
     * **Affordability:** Ensuring resident's contribution (rent/fees) is affordable based on their income (SSI, wages, etc.).
 
-## 6. Community Integration & Social Life
+### 6. Community Integration & Social Life
 
 * **Parent Perspective:** Opportunities for the adult child to have friendships, engage in meaningful activities, and not be isolated.
 * **Autistic Adult Perspective:** Access to community and social opportunities **based on personal choice and interest**. Control over social interactions; ability to easily retreat. Avoiding forced socialization.
@@ -72,7 +72,7 @@ This outlines key requirements for planning housing and support systems designed
     * **Transportation:** Reliable transportation options (public transit accessibility, walkability, ride-shares, potential staff transport, support for driving if applicable).
     * **Respect for Solitude:** Recognition and acceptance of the individual's need for privacy and downtime.
 
-## 7. Health & Well-being
+### 7. Health & Well-being
 
 * **Parent Perspective:** Ensuring access to quality healthcare (physical, dental, mental), medication management, and promotion of healthy habits.
 * **Autistic Adult Perspective:** Having support to manage health needs independently as much as possible. Choice of providers. Having health concerns taken seriously.
@@ -82,7 +82,7 @@ This outlines key requirements for planning housing and support systems designed
     * **Mental Health Support:** Access to therapists or counselors knowledgeable about autism. Environment supports emotional regulation.
     * **Healthy Lifestyle Promotion:** Support for healthy eating, exercise, and sleep habits, based on individual preferences and goals.
 
-## 8. Transition & Future Planning
+### 8. Transition & Future Planning
 
 * **Parent Perspective:** Smooth transition into the living situation. A clear plan for how things will work long-term, especially regarding decision-making and support adjustments as needs evolve or parents age/pass away.
 * **Autistic Adult Perspective:** Involvement and control in the planning and moving process. Support during the transition period. Knowing their preferences will continue to be honored in the future.
