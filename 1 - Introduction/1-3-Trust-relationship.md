@@ -12,6 +12,8 @@ This plan outlines the creation of a Special Needs Community Group Home, governe
 
 The model maintains strict delineation between individual ownership (via Special Needs Trusts) and shared services, ensuring both fiduciary clarity and sustainable community support.
 
+---
+
 ### Pictorial Representation of Trust Sequence by Timeline
 ![Trust Sequence by Timeline](../images/Trust_Sequence_timeline.jpg)
 
