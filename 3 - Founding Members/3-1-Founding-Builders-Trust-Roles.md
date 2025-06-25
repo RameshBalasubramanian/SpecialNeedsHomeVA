@@ -96,3 +96,7 @@ The Treasurer is responsible for the financial management and oversight of the t
 ---
 
 These functions would likely be managed by President, Secretary and Treasurer within the FBT along with the designated individuals from the Founding Parents Council or external professionals hired by the Trust. For example, one parent might lead "Property Acquisition," another "Financial Structuring," etc.
+
+---
+
+[**Next ... Appendix - Membership**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/Appendix/A-Membership.md)
