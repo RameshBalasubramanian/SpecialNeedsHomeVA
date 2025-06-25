@@ -4,7 +4,7 @@ Created/Compiled by **Ramesh Balasubramanian**
 
 ---
 # Teamwork
-*Autistic individual's parents/Family Teamwork is the only hope for long-term success beyond parent's lifetime!!!*
+*Autistic individual's parents/family Teamwork is the only hope for long-term success beyond parent's lifetime!!!*
 
 ![Team Work](images/teamwork.jpeg)
 
