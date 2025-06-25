@@ -1,4 +1,4 @@
-# <center> Timeline and Dates </center>
+# <center> Project Timeline </center>
 
 1.  Critical to set a timeline and work towards it.
 2.  Once agreed upon, identify tasks that needs to be accomplished.
