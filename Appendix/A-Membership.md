@@ -1,5 +1,5 @@
 # <center> Appendix </center>
-# <center> A-Membership </center>
+# <center> A - Membership </center>
 
 
 ## Founding and Non-Founding Members of a Special Needs Housing Project (Virginia)
