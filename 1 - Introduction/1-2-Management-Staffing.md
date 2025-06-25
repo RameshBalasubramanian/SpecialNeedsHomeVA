@@ -1,3 +1,5 @@
+# <center> Management Staffing </center>
+
 ## Requirements for a Self-Sustaining, Lifelong Community Living Model for Young Autistic Adults Including End-of-Life Care
 
 Establishing a self-sustaining community living model for young autistic adults that provides support throughout their lives, including end-of-life care, necessitates a robust and dynamic management structure and a highly skilled and adaptable staffing model. This model must prioritize individualized support, promote independence where possible, foster a strong sense of community, and ensure seamless access to healthcare, including specialized palliative and hospice care as residents age and their needs change.
