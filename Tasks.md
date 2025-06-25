@@ -24,11 +24,6 @@
 3.  Identify few HOA companies
 
 ---
-# Pictorial Representation of Project Timeline
-![Project Timeline Sequence](images/Project_timeline_sequence.jpg)
-
-
----
 
 # Tasks: That needs to be accomplished
 ## Next 6–8 Weeks
