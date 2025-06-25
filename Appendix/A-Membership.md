@@ -171,3 +171,8 @@ By-laws are the fundamental internal rules and regulations adopted by an organiz
     * Outline how assets would be distributed upon dissolution, typically to another non-profit with a similar mission, as required for tax-exempt status.
 
 For the precise by-laws governing the founding members and operations of a specific "Parents and Guardians of the special needs community living project in VA," you would need to directly contact the leadership or designated representative of that particular project and request a copy of their governing documents.
+
+---
+
+[**Next ... References - Relevant References**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/References/RelevantReferences.md
+
