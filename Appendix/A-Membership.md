@@ -174,5 +174,5 @@ For the precise by-laws governing the founding members and operations of a speci
 
 ---
 
-[**Next ... References - Relevant References**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/References/RelevantReferences.md
+[**Next ... References - Relevant References**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/References/RelevantReferences.md)
 
