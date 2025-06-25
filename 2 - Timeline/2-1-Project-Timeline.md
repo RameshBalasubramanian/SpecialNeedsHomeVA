@@ -6,7 +6,7 @@
 3.  Proactively gather information and take actions timely.
 
 ---
-# Pictorial Representation of Project Timeline
+## Pictorial Representation of Project Timeline
 ![Project Timeline Sequence](../images/Project_timeline_sequence.jpg)
 
 
