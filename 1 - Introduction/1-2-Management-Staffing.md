@@ -117,4 +117,4 @@ This diagram illustrates the hierarchical flow of responsibility and the key fun
 
 ---
 
-[**Next ... Various Trusts and their Relationship**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/1%20-%20Introduction/Trust-relationship.md)
+[**Next ... Various Trusts and their Relationship**](https://github.com/RameshBalasubramanian/SpecialNeedsHomeVA/blob/main/1%20-%20Introduction/1-3-Trust-relationship.md)
