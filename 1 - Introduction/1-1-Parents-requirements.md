@@ -1,3 +1,5 @@
+# <center> Parent Requirements </center>
+
 # Requirements for Lifelong, Self-Sustaining Independent Living: Parent & Autistic Adult Perspectives
 
 This outlines key requirements for planning housing and support systems designed to enable a young autistic adult to live independently throughout their life in a self-sustaining manner. It balances the parents' desire for safety and long-term security with the autistic adult's fundamental need for autonomy and a fulfilling life.
