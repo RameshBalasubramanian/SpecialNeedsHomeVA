@@ -1,14 +1,76 @@
+# 📘 Leveraging IRS Form 990 Data to Estimate Costs for a New Community Home in Vienna, VA
+
+## 🔍 Background
+
+Langley Residential Support Services Inc. is a well-established nonprofit in Fairfax County, VA, that operates multiple residential and community support programs for individuals with developmental disabilities. The organization's annual IRS Form 990 filings offer publicly available insights into its revenue, expense structure, staffing, and service reach.
+
+These filings, such as those linked below, can serve as **benchmark data** for planning a **new community-based residential program** in a nearby area like **Vienna, VA**.
+
+### 🗂️ Reference Form 990 Filings
+- [FY Ending June 2022 (Filed May 15, 2023)](https://www.langleyresidential.org/_files/ugd/956de6_69838101fb494cabb1f6cf98adbbbfdc.pdf)
+- [FY Ending June 2021 (Filed May 16, 2022)](https://www.langleyresidential.org/_files/ugd/956de6_5d743599d6214d9cac6ce6856203774a.pdf)
+- [FY Ending June 2020 (Filed May 13, 2021)](https://www.langleyresidential.org/_files/ugd/956de6_1aca459367f7494584e21810926760be.pdf)
+
+---
+
+## 🏡 How This Data Helps Estimate New Home Viability
+
+By analyzing Langley's financial data, one can derive realistic assumptions for a new group home in Vienna, such as:
+
+### 1. **Per-Home Operational Expenses**
+Langley operates **multiple group homes**, serving 16–18 individuals across those homes.  
+In FY 2021, **Group Home expenses totaled ~$1.3 million**, or approximately:
+- ~$72,000 per person per year
+- If 4–6 residents per home: **$288,000 to $432,000 per home per year**
+
+### 2. **Staffing and Personnel Costs**
+Over **60% of Langley's total expenses** are for **salaries, benefits, and taxes**—reflecting intensive staffing for 24/7 residential care.  
+You can assume:
+- Direct support staff per home (~3–5 FTE)
+- Manager/supervisor (~0.5 FTE)
+- Average personnel cost per home: **$200,000–$300,000 annually**
+
+### 3. **Administrative and Overhead Allocation**
+Using Langley's full expense profile, estimate additional costs per home for:
+- Insurance, training, HR, accounting: **~$25,000–$50,000**
+- Facility costs (utilities, maintenance): **~$15,000–$30,000**
+
+### 4. **Funding Patterns**
+- **80–85% of Langley’s income** comes from **government grants and Medicaid Waiver reimbursements**
+- New homes should model **Medicaid and DDS funding eligibility** in Virginia
+- **Private donations and grants** typically supplement 10–20% of revenue
+
+---
+
+## 📊 Ballpark Income & Expense Estimate for 1 Home in Vienna, VA
+
+| **Category**                   | **Annual Estimate**  |
+|-------------------------------|-----------------------|
+| Program Revenue (Medicaid)    | $300,000–$450,000     |
+| Contributions & Grants        | $30,000–$75,000       |
+| **Total Income**              | $330,000–$525,000     |
+|                               |                       |
+| Salaries & Benefits           | $200,000–$300,000     |
+| Housing/Facility Operations   | $30,000–$50,000       |
+| Program Supplies & Services   | $20,000–$30,000       |
+| Admin & Overhead              | $25,000–$50,000       |
+| **Total Expenses**            | $275,000–$430,000     |
+|                               |                       |
+| **Potential Surplus Range**   | $55,000–$95,000       |
+
+---
+
+## ✅ Conclusion
+
+Analyzing Langley’s Form 990 data provides a **credible, locality-specific financial reference** to plan and justify funding for a **new group home** in Vienna, VA.  
+It helps forecast:
+- Funding needs and sources
+- Staff and housing costs
+- Program sustainability
+
+With adjustments for real estate prices and support needs, these benchmarks offer a sound foundation for grant proposals, budgeting, and stakeholder engagement.
 
 
-# Langley Residential Support Services Inc.
-## Tax returns filed by nonprofit organizations are public records. **Form 990** is an informational return that most organizations claiming federal tax-exempt status must file yearly with the IRS.
-
-
-| **Filing Date**    | **Fiscal Year Ending** | **Form 990 URL**                                                                                  |
-|--------------------|------------------------|-----------------------------------------------------------------------------------------------------|
-| May 15, 2023       | June 2022              | [View Form 990 (2022)](https://www.langleyresidential.org/_files/ugd/956de6_69838101fb494cabb1f6cf98adbbbfdc.pdf) |
-| May 16, 2022       | June 2021              | [View Form 990 (2021)](https://www.langleyresidential.org/_files/ugd/956de6_5d743599d6214d9cac6ce6856203774a.pdf) |
-| May 13, 2021       | June 2020              | [View Form 990 (2020)](https://www.langleyresidential.org/_files/ugd/956de6_1aca459367f7494584e21810926760be.pdf) |
 
 ---
 
